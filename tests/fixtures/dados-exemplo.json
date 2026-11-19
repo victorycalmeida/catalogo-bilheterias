@@ -1,0 +1,20 @@
+{
+  "atualizadoEm": "2026-11-14T09:00:00.000Z",
+  "regiao": "BR",
+  "filmes": [
+    { "posicao": 1, "tmdbId": 19995, "titulo": "Avatar", "tituloOriginal": "Avatar", "ano": 2009, "bilheteria": 2923706026, "poster": "/exemplo-inexistente.jpg", "link": "https://www.themoviedb.org/movie/19995/watch?locale=BR",
+      "assinatura": [{ "id": 337, "nome": "Disney Plus", "logo": null }],
+      "aluguel": [{ "id": 2, "nome": "Apple TV", "logo": null }, { "id": 3, "nome": "Google Play Movies", "logo": null }],
+      "compra": [{ "id": 2, "nome": "Apple TV", "logo": null }] },
+    { "posicao": 2, "tmdbId": 299534, "titulo": "Vingadores: Ultimato", "tituloOriginal": "Avengers: Endgame", "ano": 2019, "bilheteria": 2799439100, "poster": null, "link": "https://www.themoviedb.org/movie/299534",
+      "assinatura": [{ "id": 337, "nome": "Disney Plus", "logo": null }], "aluguel": [], "compra": [] },
+    { "posicao": 3, "tmdbId": 76600, "titulo": "Avatar: O Caminho da Água", "tituloOriginal": "Avatar: The Way of Water", "ano": 2022, "bilheteria": 2320250281, "poster": null, "link": "https://www.themoviedb.org/movie/76600",
+      "assinatura": [], "aluguel": [{ "id": 2, "nome": "Apple TV", "logo": null }], "compra": [] },
+    { "posicao": 4, "tmdbId": 597, "titulo": "Titanic", "tituloOriginal": "Titanic", "ano": 1997, "bilheteria": 2264162353, "poster": null, "link": "https://www.themoviedb.org/movie/597",
+      "assinatura": [], "aluguel": [], "compra": [] },
+    { "posicao": 5, "tmdbId": 140607, "titulo": "Star Wars: O Despertar da Força", "tituloOriginal": "Star Wars: The Force Awakens", "ano": null, "bilheteria": 2068223624, "poster": null, "link": "https://www.themoviedb.org/movie/140607",
+      "assinatura": [{ "id": 8, "nome": "Netflix", "logo": null }], "aluguel": [], "compra": [{ "id": 3, "nome": "Google Play Movies", "logo": null }] },
+    { "posicao": 6, "tmdbId": 1, "titulo": "Filme de 950 milhões", "tituloOriginal": "Example", "ano": 2001, "bilheteria": 949600000, "poster": null, "link": "https://www.themoviedb.org/movie/1",
+      "assinatura": [], "aluguel": [], "compra": [{ "id": 119, "nome": "Amazon Prime Video", "logo": null }] }
+  ]
+}
