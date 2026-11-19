@@ -1,0 +1,23 @@
+{
+  "id": 19995,
+  "title": "Avatar",
+  "original_title": "Avatar",
+  "release_date": "2009-12-15",
+  "revenue": 2923706026,
+  "poster_path": "/avatar.jpg",
+  "watch/providers": {
+    "results": {
+      "BR": {
+        "link": "https://www.themoviedb.org/movie/19995/watch?locale=BR",
+        "flatrate": [{ "provider_id": 337, "provider_name": "Disney Plus", "logo_path": "/d.jpg", "display_priority": 1 }],
+        "rent": [{ "provider_id": 2, "provider_name": "Apple TV", "logo_path": "/a.jpg", "display_priority": 2 }],
+        "buy": [{ "provider_id": 2, "provider_name": "Apple TV", "logo_path": "/a.jpg", "display_priority": 2 }],
+        "ads": [{ "provider_id": 999, "provider_name": "X", "logo_path": "/x.jpg", "display_priority": 9 }]
+      },
+      "US": {
+        "link": "https://www.themoviedb.org/movie/19995/watch?locale=US",
+        "flatrate": [{ "provider_id": 8, "provider_name": "Netflix", "logo_path": "/n.jpg", "display_priority": 1 }]
+      }
+    }
+  }
+}

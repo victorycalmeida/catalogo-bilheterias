@@ -1,0 +1,10 @@
+{
+  "name": "catalogo-bilheterias",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "test": "node --test",
+    "atualizar": "node scripts/atualizar.js"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "title": "Sem BR",
+  "original_title": "No BR",
+  "release_date": "",
+  "revenue": 100,
+  "poster_path": null,
+  "watch/providers": {
+    "results": {
+      "US": { "link": "https://www.themoviedb.org/movie/1/watch?locale=US", "rent": [{ "provider_id": 2, "provider_name": "Apple TV", "logo_path": "/a.jpg" }] }
+    }
+  }
+}
