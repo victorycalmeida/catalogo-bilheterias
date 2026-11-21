@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-20T09:51:12.164Z",
+  "atualizadoEm": "2026-11-21T09:39:52.054Z",
   "regiao": "BR",
   "filmes": [
     {
@@ -8,7 +8,7 @@
       "titulo": "Vingadores: Ultimato",
       "tituloOriginal": "Avengers: Endgame",
       "ano": 2019,
-      "bilheteria": 2942649778,
+      "bilheteria": 2942661253,
       "poster": "/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
       "link": "https://www.themoviedb.org/movie/299534-avengers-endgame/watch?locale=BR",
       "assinatura": [
@@ -1284,7 +1284,7 @@
         {
           "id": 2243,
           "nome": "Apple TV Amazon Channel",
-          "logo": "/rerVCu9auZrgxTTiZu1criqrQzg.png"
+          "logo": "/giKLP7saeUA0WykEPRyZUcOVv92.png"
         },
         {
           "id": 1889,
@@ -7842,7 +7842,7 @@
         {
           "id": 2243,
           "nome": "Apple TV Amazon Channel",
-          "logo": "/rerVCu9auZrgxTTiZu1criqrQzg.png"
+          "logo": "/giKLP7saeUA0WykEPRyZUcOVv92.png"
         }
       ],
       "aluguel": [],
