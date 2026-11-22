@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-21T09:39:52.054Z",
+  "atualizadoEm": "2026-11-22T09:40:16.985Z",
   "regiao": "BR",
   "filmes": [
     {
@@ -472,6 +472,11 @@
           "id": 1899,
           "nome": "HBO Max",
           "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
+        },
+        {
+          "id": 484,
+          "nome": "Claro tv+",
+          "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
         },
         {
           "id": 1796,
@@ -5412,6 +5417,11 @@
           "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
         },
         {
+          "id": 484,
+          "nome": "Claro tv+",
+          "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
+        },
+        {
           "id": 1796,
           "nome": "Netflix Standard with Ads",
           "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
@@ -6603,6 +6613,11 @@
       "poster": "/xNqt1Om0IlUhDOjZRCL5ewoazVV.jpg",
       "link": "https://www.themoviedb.org/movie/385687-fast-x/watch?locale=BR",
       "assinatura": [
+        {
+          "id": 484,
+          "nome": "Claro tv+",
+          "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
+        },
         {
           "id": 1889,
           "nome": "Universal+ Amazon Channel",
