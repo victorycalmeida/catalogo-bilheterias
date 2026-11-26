@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-25T10:00:05.595Z",
+  "atualizadoEm": "2026-11-26T09:58:26.157Z",
   "regiao": "BR",
   "filmes": [
     {
@@ -4034,6 +4034,19 @@
     },
     {
       "posicao": 104,
+      "tmdbId": 1843391,
+      "titulo": "Sprunki: The Movie",
+      "tituloOriginal": "Sprunki: The Movie",
+      "ano": null,
+      "bilheteria": 850000000,
+      "poster": "/fRlEPzqqpvPNC4a1CBrekKv1wTf.jpg",
+      "link": "https://www.themoviedb.org/movie/1843391",
+      "assinatura": [],
+      "aluguel": [],
+      "compra": []
+    },
+    {
+      "posicao": 105,
       "tmdbId": 1895,
       "titulo": "Star Wars: Episódio III - A Vingança dos Sith",
       "tituloOriginal": "Star Wars: Episode III - Revenge of the Sith",
@@ -4052,7 +4065,7 @@
       "compra": []
     },
     {
-      "posicao": 105,
+      "posicao": 106,
       "tmdbId": 447365,
       "titulo": "Guardiões da Galáxia: Vol. 3",
       "tituloOriginal": "Guardians of the Galaxy Vol. 3",
@@ -4071,7 +4084,7 @@
       "compra": []
     },
     {
-      "posicao": 106,
+      "posicao": 107,
       "tmdbId": 27205,
       "titulo": "A Origem",
       "tituloOriginal": "Inception",
@@ -4117,7 +4130,7 @@
       ]
     },
     {
-      "posicao": 107,
+      "posicao": 108,
       "tmdbId": 8373,
       "titulo": "Transformers: A Vingança dos Derrotados",
       "tituloOriginal": "Transformers: Revenge of the Fallen",
@@ -4188,7 +4201,7 @@
       ]
     },
     {
-      "posicao": 108,
+      "posicao": 109,
       "tmdbId": 50620,
       "titulo": "A Saga Crepúsculo: Amanhecer - Parte 2",
       "tituloOriginal": "The Twilight Saga: Breaking Dawn - Part 2",
@@ -4254,7 +4267,7 @@
       ]
     },
     {
-      "posicao": 109,
+      "posicao": 110,
       "tmdbId": 353081,
       "titulo": "Missão: Impossível - Efeito Fallout",
       "tituloOriginal": "Mission: Impossible - Fallout",
@@ -4325,7 +4338,7 @@
       ]
     },
     {
-      "posicao": 110,
+      "posicao": 111,
       "tmdbId": 297762,
       "titulo": "Mulher-Maravilha",
       "tituloOriginal": "Wonder Woman",
@@ -4360,7 +4373,7 @@
       ]
     },
     {
-      "posicao": 111,
+      "posicao": 112,
       "tmdbId": 758891,
       "titulo": "你好，李焕英",
       "tituloOriginal": "你好，李焕英",
@@ -4379,7 +4392,7 @@
       "compra": []
     },
     {
-      "posicao": 112,
+      "posicao": 113,
       "tmdbId": 557,
       "titulo": "Homem-Aranha",
       "tituloOriginal": "Spider-Man",
@@ -4450,7 +4463,7 @@
       ]
     },
     {
-      "posicao": 113,
+      "posicao": 114,
       "tmdbId": 602,
       "titulo": "Independence Day",
       "tituloOriginal": "Independence Day",
@@ -4469,7 +4482,7 @@
       "compra": []
     },
     {
-      "posicao": 114,
+      "posicao": 115,
       "tmdbId": 354912,
       "titulo": "Viva: A Vida é Uma Festa",
       "tituloOriginal": "Coco",
@@ -4488,7 +4501,7 @@
       "compra": []
     },
     {
-      "posicao": 115,
+      "posicao": 116,
       "tmdbId": 259316,
       "titulo": "Animais Fantásticos e Onde Habitam",
       "tituloOriginal": "Fantastic Beasts and Where to Find Them",
@@ -4549,7 +4562,7 @@
       ]
     },
     {
-      "posicao": 116,
+      "posicao": 117,
       "tmdbId": 810,
       "titulo": "Shrek Terceiro",
       "tituloOriginal": "Shrek the Third",
@@ -4620,7 +4633,7 @@
       ]
     },
     {
-      "posicao": 117,
+      "posicao": 118,
       "tmdbId": 512200,
       "titulo": "Jumanji: Próxima Fase",
       "tituloOriginal": "Jumanji: The Next Level",
@@ -4671,7 +4684,7 @@
       ]
     },
     {
-      "posicao": 118,
+      "posicao": 119,
       "tmdbId": 601,
       "titulo": "E.T.: O Extraterrestre",
       "tituloOriginal": "E.T. the Extra-Terrestrial",
@@ -4717,7 +4730,7 @@
       ]
     },
     {
-      "posicao": 119,
+      "posicao": 120,
       "tmdbId": 166426,
       "titulo": "Piratas do Caribe: A Vingança de Salazar",
       "tituloOriginal": "Pirates of the Caribbean: Dead Men Tell No Tales",
@@ -4736,7 +4749,7 @@
       "compra": []
     },
     {
-      "posicao": 120,
+      "posicao": 121,
       "tmdbId": 1311031,
       "titulo": "Demon Slayer: Kimetsu no Yaiba Castelo Infinito",
       "tituloOriginal": "劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来",
@@ -4795,7 +4808,7 @@
       "compra": []
     },
     {
-      "posicao": 121,
+      "posicao": 122,
       "tmdbId": 14161,
       "titulo": "2012",
       "tituloOriginal": "2012",
@@ -4851,7 +4864,7 @@
       ]
     },
     {
-      "posicao": 122,
+      "posicao": 123,
       "tmdbId": 673,
       "titulo": "Harry Potter e o Prisioneiro de Azkaban",
       "tituloOriginal": "Harry Potter and the Prisoner of Azkaban",
@@ -4912,7 +4925,7 @@
       ]
     },
     {
-      "posicao": 123,
+      "posicao": 124,
       "tmdbId": 558,
       "titulo": "Homem-Aranha 2",
       "tituloOriginal": "Spider-Man 2",
@@ -4963,7 +4976,7 @@
       ]
     },
     {
-      "posicao": 124,
+      "posicao": 125,
       "tmdbId": 82992,
       "titulo": "Velozes & Furiosos 6",
       "tituloOriginal": "Fast & Furious 6",
@@ -5039,7 +5052,7 @@
       ]
     },
     {
-      "posicao": 125,
+      "posicao": 126,
       "tmdbId": 217,
       "titulo": "Indiana Jones e o Reino da Caveira de Cristal",
       "tituloOriginal": "Indiana Jones and the Kingdom of the Crystal Skull",
@@ -5090,7 +5103,7 @@
       ]
     },
     {
-      "posicao": 126,
+      "posicao": 127,
       "tmdbId": 383498,
       "titulo": "Deadpool 2",
       "tituloOriginal": "Deadpool 2",
@@ -5109,7 +5122,7 @@
       "compra": []
     },
     {
-      "posicao": 127,
+      "posicao": 128,
       "tmdbId": 293660,
       "titulo": "Deadpool",
       "tituloOriginal": "Deadpool",
@@ -5128,7 +5141,7 @@
       "compra": []
     },
     {
-      "posicao": 128,
+      "posicao": 129,
       "tmdbId": 11,
       "titulo": "Guerra nas Estrelas",
       "tituloOriginal": "Star Wars",
@@ -5147,7 +5160,7 @@
       "compra": []
     },
     {
-      "posicao": 129,
+      "posicao": 130,
       "tmdbId": 370172,
       "titulo": "007: Sem Tempo para Morrer",
       "tituloOriginal": "No Time to Die",
@@ -5198,7 +5211,7 @@
       ]
     },
     {
-      "posicao": 130,
+      "posicao": 131,
       "tmdbId": 118340,
       "titulo": "Guardiões da Galáxia",
       "tituloOriginal": "Guardians of the Galaxy",
@@ -5217,7 +5230,7 @@
       "compra": []
     },
     {
-      "posicao": 131,
+      "posicao": 132,
       "tmdbId": 414906,
       "titulo": "Batman",
       "tituloOriginal": "The Batman",
@@ -5268,7 +5281,7 @@
       ]
     },
     {
-      "posicao": 132,
+      "posicao": 133,
       "tmdbId": 402431,
       "titulo": "Wicked",
       "tituloOriginal": "Wicked",
@@ -5319,7 +5332,7 @@
       ]
     },
     {
-      "posicao": 133,
+      "posicao": 134,
       "tmdbId": 8587,
       "titulo": "O Rei Leão",
       "tituloOriginal": "The Lion King",
@@ -5338,7 +5351,7 @@
       "compra": []
     },
     {
-      "posicao": 134,
+      "posicao": 135,
       "tmdbId": 616037,
       "titulo": "Thor: Amor e Trovão",
       "tituloOriginal": "Thor: Love and Thunder",
@@ -5357,7 +5370,7 @@
       "compra": []
     },
     {
-      "posicao": 135,
+      "posicao": 136,
       "tmdbId": 384018,
       "titulo": "Velozes & Furiosos: Hobbs & Shaw",
       "tituloOriginal": "Fast & Furious Presents: Hobbs & Shaw",
@@ -5443,7 +5456,7 @@
       ]
     },
     {
-      "posicao": 136,
+      "posicao": 137,
       "tmdbId": 591,
       "titulo": "O Código da Vinci",
       "tituloOriginal": "The Da Vinci Code",
@@ -5499,7 +5512,7 @@
       ]
     },
     {
-      "posicao": 137,
+      "posicao": 138,
       "tmdbId": 1930,
       "titulo": "O Espetacular Homem-Aranha",
       "tituloOriginal": "The Amazing Spider-Man",
@@ -5565,7 +5578,7 @@
       ]
     },
     {
-      "posicao": 138,
+      "posicao": 139,
       "tmdbId": 102651,
       "titulo": "Malévola",
       "tituloOriginal": "Maleficent",
@@ -5584,7 +5597,7 @@
       "compra": []
     },
     {
-      "posicao": 139,
+      "posicao": 140,
       "tmdbId": 131631,
       "titulo": "Jogos Vorazes: A Esperança - Parte 1",
       "tituloOriginal": "The Hunger Games: Mockingjay - Part 1",
@@ -5635,7 +5648,78 @@
       ]
     },
     {
-      "posicao": 140,
+      "posicao": 141,
+      "tmdbId": 10192,
+      "titulo": "Shrek Para Sempre",
+      "tituloOriginal": "Shrek Forever After",
+      "ano": 2010,
+      "bilheteria": 752600867,
+      "poster": "/iFXVU0ni6YWgQNSPkoGO1Tk5L3g.jpg",
+      "link": "https://www.themoviedb.org/movie/10192-shrek-forever-after/watch?locale=BR",
+      "assinatura": [
+        {
+          "id": 8,
+          "nome": "Netflix",
+          "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
+        },
+        {
+          "id": 119,
+          "nome": "Amazon Prime Video",
+          "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+        },
+        {
+          "id": 167,
+          "nome": "Claro video",
+          "logo": "/zTJg0WVErBkcJv4S9FkQRUyXjnq.png"
+        },
+        {
+          "id": 1796,
+          "nome": "Netflix Standard with Ads",
+          "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
+        },
+        {
+          "id": 2156,
+          "nome": "Telecine Amazon Channel",
+          "logo": "/jRpdu5KkWx8ZvPCmBY5c4YHhWuK.png"
+        },
+        {
+          "id": 2100,
+          "nome": "Amazon Prime Video with Ads",
+          "logo": "/tpwTT1FpWqLLhxUfAuDavIXDDfI.png"
+        },
+        {
+          "id": 1889,
+          "nome": "Universal+ Amazon Channel",
+          "logo": "/j3Q750FwRyIejO5MrNu25Kia57.png"
+        }
+      ],
+      "aluguel": [
+        {
+          "id": 2,
+          "nome": "Apple TV Store",
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+        },
+        {
+          "id": 10,
+          "nome": "Amazon Video",
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+        }
+      ],
+      "compra": [
+        {
+          "id": 2,
+          "nome": "Apple TV Store",
+          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+        },
+        {
+          "id": 10,
+          "nome": "Amazon Video",
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
+        }
+      ]
+    },
+    {
+      "posicao": 142,
       "tmdbId": 297761,
       "titulo": "Esquadrão Suicida",
       "tituloOriginal": "Suicide Squad",
@@ -5691,7 +5775,7 @@
       ]
     },
     {
-      "posicao": 141,
+      "posicao": 143,
       "tmdbId": 127585,
       "titulo": "X-Men: Dias de um Futuro Esquecido",
       "tituloOriginal": "X-Men: Days of Future Past",
@@ -5710,7 +5794,7 @@
       "compra": []
     },
     {
-      "posicao": 142,
+      "posicao": 144,
       "tmdbId": 80321,
       "titulo": "Madagascar 3: Os Procurados",
       "tituloOriginal": "Madagascar 3: Europe's Most Wanted",
@@ -5766,7 +5850,7 @@
       ]
     },
     {
-      "posicao": 143,
+      "posicao": 145,
       "tmdbId": 157336,
       "titulo": "Interestelar",
       "tituloOriginal": "Interstellar",
@@ -5822,7 +5906,7 @@
       ]
     },
     {
-      "posicao": 144,
+      "posicao": 146,
       "tmdbId": 411,
       "titulo": "As Crônicas de Nárnia: O Leão, a Feiticeira e o Guarda-Roupa",
       "tituloOriginal": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
@@ -5846,7 +5930,7 @@
       "compra": []
     },
     {
-      "posicao": 145,
+      "posicao": 147,
       "tmdbId": 62211,
       "titulo": "Universidade Monstros",
       "tituloOriginal": "Monsters University",
@@ -5865,7 +5949,7 @@
       "compra": []
     },
     {
-      "posicao": 146,
+      "posicao": 148,
       "tmdbId": 615453,
       "titulo": "Ne Zha",
       "tituloOriginal": "哪吒之魔童降世",
@@ -5878,7 +5962,7 @@
       "compra": []
     },
     {
-      "posicao": 147,
+      "posicao": 149,
       "tmdbId": 604,
       "titulo": "Matrix Reloaded",
       "tituloOriginal": "The Matrix Reloaded",
@@ -5924,7 +6008,7 @@
       ]
     },
     {
-      "posicao": 148,
+      "posicao": 150,
       "tmdbId": 14160,
       "titulo": "Up: Altas Aventuras",
       "tituloOriginal": "Up",
@@ -5943,7 +6027,7 @@
       "compra": []
     },
     {
-      "posicao": 149,
+      "posicao": 151,
       "tmdbId": 385128,
       "titulo": "Velozes & Furiosos 9",
       "tituloOriginal": "F9",
@@ -6009,7 +6093,7 @@
       ]
     },
     {
-      "posicao": 150,
+      "posicao": 152,
       "tmdbId": 49047,
       "titulo": "Gravidade",
       "tituloOriginal": "Gravity",
@@ -6050,7 +6134,7 @@
       ]
     },
     {
-      "posicao": 151,
+      "posicao": 153,
       "tmdbId": 762509,
       "titulo": "Mufasa: O Rei Leão",
       "tituloOriginal": "Mufasa: The Lion King",
@@ -6069,7 +6153,7 @@
       "compra": []
     },
     {
-      "posicao": 152,
+      "posicao": 154,
       "tmdbId": 346364,
       "titulo": "It: A Coisa",
       "tituloOriginal": "It",
@@ -6125,7 +6209,7 @@
       ]
     },
     {
-      "posicao": 153,
+      "posicao": 155,
       "tmdbId": 102382,
       "titulo": "O Espetacular Homem-Aranha 2: A Ameaça de Electro",
       "tituloOriginal": "The Amazing Spider-Man 2",
@@ -6201,7 +6285,7 @@
       ]
     },
     {
-      "posicao": 154,
+      "posicao": 156,
       "tmdbId": 693134,
       "titulo": "Duna: Parte Dois",
       "tituloOriginal": "Dune: Part Two",
@@ -6252,7 +6336,7 @@
       ]
     },
     {
-      "posicao": 155,
+      "posicao": 157,
       "tmdbId": 100402,
       "titulo": "Capitão América: O Soldado Invernal",
       "tituloOriginal": "Captain America: The Winter Soldier",
@@ -6271,7 +6355,7 @@
       "compra": []
     },
     {
-      "posicao": 156,
+      "posicao": 158,
       "tmdbId": 50619,
       "titulo": "A Saga Crepúsculo: Amanhecer - Parte 1",
       "tituloOriginal": "The Twilight Saga: Breaking Dawn - Part 1",
@@ -6337,7 +6421,7 @@
       ]
     },
     {
-      "posicao": 157,
+      "posicao": 159,
       "tmdbId": 119450,
       "titulo": "Planeta dos Macacos: O Confronto",
       "tituloOriginal": "Dawn of the Planet of the Apes",
@@ -6356,7 +6440,7 @@
       "compra": []
     },
     {
-      "posicao": 158,
+      "posicao": 160,
       "tmdbId": 18239,
       "titulo": "A Saga Crepúsculo: Lua Nova",
       "tituloOriginal": "The Twilight Saga: New Moon",
@@ -6422,7 +6506,7 @@
       ]
     },
     {
-      "posicao": 159,
+      "posicao": 161,
       "tmdbId": 1858,
       "titulo": "Transformers",
       "tituloOriginal": "Transformers",
@@ -6498,7 +6582,7 @@
       ]
     },
     {
-      "posicao": 160,
+      "posicao": 162,
       "tmdbId": 385687,
       "titulo": "Velozes & Furiosos 10",
       "tituloOriginal": "Fast X",
@@ -6549,7 +6633,7 @@
       ]
     },
     {
-      "posicao": 161,
+      "posicao": 163,
       "tmdbId": 24021,
       "titulo": "A Saga Crepúsculo: Eclipse",
       "tituloOriginal": "The Twilight Saga: Eclipse",
@@ -6605,7 +6689,7 @@
       ]
     },
     {
-      "posicao": 162,
+      "posicao": 164,
       "tmdbId": 56292,
       "titulo": "Missão: Impossível - Protocolo Fantasma",
       "tituloOriginal": "Mission: Impossible - Ghost Protocol",
@@ -6676,7 +6760,7 @@
       ]
     },
     {
-      "posicao": 163,
+      "posicao": 165,
       "tmdbId": 70160,
       "titulo": "Jogos Vorazes",
       "tituloOriginal": "The Hunger Games",
@@ -6727,7 +6811,7 @@
       ]
     },
     {
-      "posicao": 164,
+      "posicao": 166,
       "tmdbId": 1314481,
       "titulo": "O Diabo Veste Prada 2",
       "tituloOriginal": "The Devil Wears Prada 2",
@@ -6746,7 +6830,7 @@
       "compra": []
     },
     {
-      "posicao": 165,
+      "posicao": 167,
       "tmdbId": 569094,
       "titulo": "Homem-Aranha: Através do Aranhaverso",
       "tituloOriginal": "Spider-Man: Across the Spider-Verse",
@@ -6802,7 +6886,7 @@
       ]
     },
     {
-      "posicao": 166,
+      "posicao": 168,
       "tmdbId": 277834,
       "titulo": "Moana: Um Mar de Aventuras",
       "tituloOriginal": "Moana",
@@ -6821,7 +6905,7 @@
       "compra": []
     },
     {
-      "posicao": 167,
+      "posicao": 169,
       "tmdbId": 602666,
       "titulo": "Detetive Chinatown 3",
       "tituloOriginal": "唐人街探案3",
@@ -6834,7 +6918,7 @@
       "compra": []
     },
     {
-      "posicao": 168,
+      "posicao": 170,
       "tmdbId": 687163,
       "titulo": "Devoradores de Estrelas",
       "tituloOriginal": "Project Hail Mary",
@@ -6890,7 +6974,7 @@
       ]
     },
     {
-      "posicao": 169,
+      "posicao": 171,
       "tmdbId": 177677,
       "titulo": "Missão: Impossível - Nação Secreta",
       "tituloOriginal": "Mission: Impossible - Rogue Nation",
@@ -6961,7 +7045,7 @@
       ]
     },
     {
-      "posicao": 170,
+      "posicao": 172,
       "tmdbId": 13,
       "titulo": "Forrest Gump: O Contador de Histórias",
       "tituloOriginal": "Forrest Gump",
@@ -7012,7 +7096,7 @@
       ]
     },
     {
-      "posicao": 171,
+      "posicao": 173,
       "tmdbId": 284052,
       "titulo": "Doutor Estranho",
       "tituloOriginal": "Doctor Strange",
@@ -7031,7 +7115,7 @@
       "compra": []
     },
     {
-      "posicao": 172,
+      "posicao": 174,
       "tmdbId": 1066298,
       "titulo": "Rio de Sangue",
       "tituloOriginal": "满江红",
@@ -7044,7 +7128,7 @@
       "compra": []
     },
     {
-      "posicao": 173,
+      "posicao": 175,
       "tmdbId": 745,
       "titulo": "O Sexto Sentido",
       "tituloOriginal": "The Sixth Sense",
@@ -7073,7 +7157,7 @@
       "compra": []
     },
     {
-      "posicao": 174,
+      "posicao": 176,
       "tmdbId": 49521,
       "titulo": "O Homem de Aço",
       "tituloOriginal": "Man of Steel",
@@ -7119,7 +7203,7 @@
       ]
     },
     {
-      "posicao": 175,
+      "posicao": 177,
       "tmdbId": 49444,
       "titulo": "Kung Fu Panda 2",
       "tituloOriginal": "Kung Fu Panda 2",
@@ -7175,7 +7259,7 @@
       ]
     },
     {
-      "posicao": 176,
+      "posicao": 178,
       "tmdbId": 842675,
       "titulo": "Terra à Deriva 2: Destino",
       "tituloOriginal": "流浪地球2",
@@ -7210,7 +7294,7 @@
       ]
     },
     {
-      "posicao": 177,
+      "posicao": 179,
       "tmdbId": 141052,
       "titulo": "Liga da Justiça",
       "tituloOriginal": "Justice League",
@@ -7256,7 +7340,7 @@
       ]
     },
     {
-      "posicao": 178,
+      "posicao": 180,
       "tmdbId": 950,
       "titulo": "A Era do Gelo 2",
       "tituloOriginal": "Ice Age: The Meltdown",
@@ -7285,7 +7369,7 @@
       "compra": []
     },
     {
-      "posicao": 179,
+      "posicao": 181,
       "tmdbId": 177572,
       "titulo": "Operação Big Hero",
       "tituloOriginal": "Big Hero 6",
@@ -7304,7 +7388,7 @@
       "compra": []
     },
     {
-      "posicao": 180,
+      "posicao": 182,
       "tmdbId": 1462229,
       "titulo": "Pegasus 3",
       "tituloOriginal": "飞驰人生3",
@@ -7317,7 +7401,7 @@
       "compra": []
     },
     {
-      "posicao": 181,
+      "posicao": 183,
       "tmdbId": 22,
       "titulo": "Piratas do Caribe: A Maldição do Pérola Negra",
       "tituloOriginal": "Pirates of the Caribbean: The Curse of the Black Pearl",
@@ -7336,7 +7420,7 @@
       "compra": []
     },
     {
-      "posicao": 182,
+      "posicao": 184,
       "tmdbId": 338952,
       "titulo": "Animais Fantásticos: Os Crimes de Grindelwald",
       "tituloOriginal": "Fantastic Beasts: The Crimes of Grindelwald",
@@ -7392,7 +7476,7 @@
       ]
     },
     {
-      "posicao": 183,
+      "posicao": 185,
       "tmdbId": 41154,
       "titulo": "MIB - Homens de Preto III",
       "tituloOriginal": "Men in Black 3",
@@ -7443,7 +7527,7 @@
       ]
     },
     {
-      "posicao": 184,
+      "posicao": 186,
       "tmdbId": 131634,
       "titulo": "Jogos Vorazes: A Esperança - O Final",
       "tituloOriginal": "The Hunger Games: Mockingjay - Part 2",
@@ -7499,7 +7583,7 @@
       ]
     },
     {
-      "posicao": 185,
+      "posicao": 187,
       "tmdbId": 585,
       "titulo": "Monstros S.A.",
       "tituloOriginal": "Monsters, Inc.",
@@ -7518,7 +7602,7 @@
       "compra": []
     },
     {
-      "posicao": 186,
+      "posicao": 188,
       "tmdbId": 1894,
       "titulo": "Star Wars: Episódio II - Ataque dos Clones",
       "tituloOriginal": "Star Wars: Episode II - Attack of the Clones",
@@ -7537,7 +7621,7 @@
       "compra": []
     },
     {
-      "posicao": 187,
+      "posicao": 189,
       "tmdbId": 76338,
       "titulo": "Thor: O Mundo Sombrio",
       "tituloOriginal": "Thor: The Dark World",
@@ -7556,7 +7640,7 @@
       "compra": []
     },
     {
-      "posicao": 188,
+      "posicao": 190,
       "tmdbId": 1087192,
       "titulo": "Como Treinar o Seu Dragão",
       "tituloOriginal": "How to Train Your Dragon",
@@ -7602,7 +7686,7 @@
       ]
     },
     {
-      "posicao": 189,
+      "posicao": 191,
       "tmdbId": 787699,
       "titulo": "Wonka",
       "tituloOriginal": "Wonka",
@@ -7653,7 +7737,7 @@
       ]
     },
     {
-      "posicao": 190,
+      "posicao": 192,
       "tmdbId": 335797,
       "titulo": "Sing - Quem Canta Seus Males Espanta",
       "tituloOriginal": "Sing",
@@ -7724,7 +7808,7 @@
       ]
     },
     {
-      "posicao": 191,
+      "posicao": 193,
       "tmdbId": 911430,
       "titulo": "F1: O Filme",
       "tituloOriginal": "F1",
@@ -7759,7 +7843,7 @@
       ]
     },
     {
-      "posicao": 192,
+      "posicao": 194,
       "tmdbId": 9502,
       "titulo": "Kung Fu Panda",
       "tituloOriginal": "Kung Fu Panda",
@@ -7815,7 +7899,7 @@
       ]
     },
     {
-      "posicao": 193,
+      "posicao": 195,
       "tmdbId": 9806,
       "titulo": "Os Incríveis",
       "tituloOriginal": "The Incredibles",
@@ -7834,7 +7918,7 @@
       "compra": []
     },
     {
-      "posicao": 194,
+      "posicao": 196,
       "tmdbId": 286217,
       "titulo": "Perdido em Marte",
       "tituloOriginal": "The Martian",
@@ -7853,7 +7937,7 @@
       "compra": []
     },
     {
-      "posicao": 195,
+      "posicao": 197,
       "tmdbId": 8960,
       "titulo": "Hancock",
       "tituloOriginal": "Hancock",
@@ -7914,7 +7998,7 @@
       ]
     },
     {
-      "posicao": 196,
+      "posicao": 198,
       "tmdbId": 928123,
       "titulo": "长津湖之水门桥",
       "tituloOriginal": "长津湖之水门桥",
@@ -7927,7 +8011,7 @@
       "compra": []
     },
     {
-      "posicao": 197,
+      "posicao": 199,
       "tmdbId": 51497,
       "titulo": "Velozes & Furiosos 5: Operação Rio",
       "tituloOriginal": "Fast Five",
@@ -8003,7 +8087,7 @@
       ]
     },
     {
-      "posicao": 198,
+      "posicao": 200,
       "tmdbId": 10138,
       "titulo": "Homem de Ferro 2",
       "tituloOriginal": "Iron Man 2",
@@ -8011,44 +8095,6 @@
       "bilheteria": 623933331,
       "poster": "/vzROjQbgKWMVf2EldXipCcjpuBL.jpg",
       "link": "https://www.themoviedb.org/movie/10138-iron-man-2/watch?locale=BR",
-      "assinatura": [
-        {
-          "id": 337,
-          "nome": "Disney Plus",
-          "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-        }
-      ],
-      "aluguel": [],
-      "compra": []
-    },
-    {
-      "posicao": 199,
-      "tmdbId": 2062,
-      "titulo": "Ratatouille",
-      "tituloOriginal": "Ratatouille",
-      "ano": 2007,
-      "bilheteria": 623726000,
-      "poster": "/41Co0TRUJNyvjr2vHBEcAKAEFpX.jpg",
-      "link": "https://www.themoviedb.org/movie/2062-ratatouille/watch?locale=BR",
-      "assinatura": [
-        {
-          "id": 337,
-          "nome": "Disney Plus",
-          "logo": "/5eZ872CghnHFLB1j8grszbrx0dx.png"
-        }
-      ],
-      "aluguel": [],
-      "compra": []
-    },
-    {
-      "posicao": 200,
-      "tmdbId": 363088,
-      "titulo": "Homem-Formiga e a Vespa",
-      "tituloOriginal": "Ant-Man and the Wasp",
-      "ano": 2018,
-      "bilheteria": 622674139,
-      "poster": "/5BKRuGVxx8qsB7WGSJ0oWRCHsgN.jpg",
-      "link": "https://www.themoviedb.org/movie/363088-ant-man-and-the-wasp/watch?locale=BR",
       "assinatura": [
         {
           "id": 337,
