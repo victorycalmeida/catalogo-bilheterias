@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-26T09:58:26.157Z",
+  "atualizadoEm": "2026-11-27T09:57:06.903Z",
   "regiao": "BR",
   "filmes": [
     {
@@ -1655,11 +1655,6 @@
           "id": 1899,
           "nome": "HBO Max",
           "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
-        },
-        {
-          "id": 484,
-          "nome": "Claro tv+",
-          "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
         },
         {
           "id": 1825,
@@ -3885,11 +3880,6 @@
           "id": 2,
           "nome": "Apple TV Store",
           "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-        },
-        {
-          "id": 10,
-          "nome": "Amazon Video",
-          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         }
       ],
       "compra": [
@@ -5627,11 +5617,6 @@
           "id": 2,
           "nome": "Apple TV Store",
           "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-        },
-        {
-          "id": 10,
-          "nome": "Amazon Video",
-          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         }
       ],
       "compra": [
@@ -6531,11 +6516,6 @@
           "logo": "/pkx3klJlwW5JdtaulvDx6hDNtch.png"
         },
         {
-          "id": 484,
-          "nome": "Claro tv+",
-          "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
-        },
-        {
           "id": 582,
           "nome": "Paramount+ Amazon Channel",
           "logo": "/bxX0YVOCY7bI85BKRlJAAQ2EjUR.png"
@@ -6845,11 +6825,6 @@
           "logo": "/rK1KljqmbvO9HQa1PBFLILWah72.png"
         },
         {
-          "id": 484,
-          "nome": "Claro tv+",
-          "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
-        },
-        {
           "id": 1796,
           "nome": "Netflix Standard with Ads",
           "logo": "/eGUwOOIxcazwEBxqJpSN5sWEu6V.png"
@@ -6931,6 +6906,11 @@
           "id": 119,
           "nome": "Amazon Prime Video",
           "logo": "/gMZdpavHmxFNnLpMHwVxfqeux2g.png"
+        },
+        {
+          "id": 484,
+          "nome": "Claro tv+",
+          "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
         },
         {
           "id": 2142,
@@ -7562,11 +7542,6 @@
           "id": 2,
           "nome": "Apple TV Store",
           "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-        },
-        {
-          "id": 10,
-          "nome": "Amazon Video",
-          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         }
       ],
       "compra": [
