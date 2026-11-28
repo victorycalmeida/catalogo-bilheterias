@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-11-27T09:57:06.903Z",
+  "atualizadoEm": "2026-11-28T09:44:15.822Z",
   "regiao": "BR",
   "filmes": [
     {
@@ -9,7 +9,7 @@
       "tituloOriginal": "Avengers: Endgame",
       "ano": 2019,
       "bilheteria": 2942661253,
-      "poster": "/9fRX8UKlIW7Lb9GqNsJVakWWFCi.jpg",
+      "poster": "/q6725aR8Zs4IwGMXzZT8aC8lh41.jpg",
       "link": "https://www.themoviedb.org/movie/299534-avengers-endgame/watch?locale=BR",
       "assinatura": [
         {
@@ -62,18 +62,7 @@
           "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
         }
       ],
-      "aluguel": [
-        {
-          "id": 2,
-          "nome": "Apple TV Store",
-          "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-        },
-        {
-          "id": 10,
-          "nome": "Amazon Video",
-          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
-        }
-      ],
+      "aluguel": [],
       "compra": [
         {
           "id": 2,
@@ -302,7 +291,7 @@
       "tituloOriginal": "The Odyssey",
       "ano": 2026,
       "bilheteria": 1804589435,
-      "poster": "/m0ehGErq8GTLK4WZxaq9QLGAR3u.jpg",
+      "poster": "/rKg1iPC0xrmyd9cZYvcil8d9I6W.jpg",
       "link": "https://www.themoviedb.org/movie/1368337-the-odyssey/watch?locale=BR",
       "assinatura": [
         {
@@ -1604,11 +1593,6 @@
           "id": 1899,
           "nome": "HBO Max",
           "logo": "/skypuy7SXuugIQeYg0IglmzoKaS.png"
-        },
-        {
-          "id": 484,
-          "nome": "Claro tv+",
-          "logo": "/olzQMHt2SX7iNy8WDMR299hVFcL.png"
         },
         {
           "id": 1825,
@@ -3880,6 +3864,11 @@
           "id": 2,
           "nome": "Apple TV Store",
           "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+        },
+        {
+          "id": 10,
+          "nome": "Amazon Video",
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         }
       ],
       "compra": [
@@ -5617,6 +5606,11 @@
           "id": 2,
           "nome": "Apple TV Store",
           "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+        },
+        {
+          "id": 10,
+          "nome": "Amazon Video",
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         }
       ],
       "compra": [
@@ -6770,11 +6764,6 @@
           "id": 2,
           "nome": "Apple TV Store",
           "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
-        },
-        {
-          "id": 10,
-          "nome": "Amazon Video",
-          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         }
       ],
       "compra": [
@@ -7542,6 +7531,11 @@
           "id": 2,
           "nome": "Apple TV Store",
           "logo": "/qdEGArH3lKfFnAtYXMkSYk5wxuG.png"
+        },
+        {
+          "id": 10,
+          "nome": "Amazon Video",
+          "logo": "/jn6TLbtaTZntTRX9UYucHJvpQx1.png"
         }
       ],
       "compra": [
